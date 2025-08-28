@@ -1,0 +1,3 @@
+hello,io.writer
+第一行日志
+第二行日志
