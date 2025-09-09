@@ -24,17 +24,17 @@
 
 * strings ok
 
-* fmt
+* fmt done
 
-* regexp
+* regexp done
 
 ## 4.数据格式编解码
 
-* encoding/json
+* encoding/json done 
 
-* encoding/csv
+* encoding/csv  goto
 
-* encoding/xml
+* encoding/xml goto 
 
 ## 5.并发与上下文
 
